@@ -1,0 +1,13 @@
+1. Replace NEXGEN CV to JxCreations
+2. Make Print Button Working
+3. Make Download CV Button Working
+4. Add Profile Picture
+5. Add Portfolio Pictures
+6. Change Works/Brands Images
+7. Change Reviews/Pictures/Names
+8. Make form Submit Working
+9. Responsive **Important 
+
+
+
+
